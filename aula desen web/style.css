@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(253, 135, 0);
+}
+.container{
+    height: 100%;
+    margin: 20px;
+    margin-top: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: black;
+}
+.container .card{
+    background-color: rgb(255,236,139);
+    width: 300px;
+    height: auto;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 15px;
+    )
+
+}
